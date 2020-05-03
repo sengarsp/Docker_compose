@@ -33,7 +33,14 @@ python3 docker__project.py
 > choose your option to launch your desired web server
 
 ![alt text](https://github.com/sengarsp/Docker_compose/blob/master/web1.PNG)
-![alt text](https://github.com/sengarsp/Docker_compose/blob/master/web4.PNG)
-
+![alt text](https://github.com/sengarsp/Docker_compose/blob/master/web4.PN
+## BUILT WITH
+RHEL-8 Runing in Virtual Box
+Docker 
+Docker_compose 
+Docker images:
+       mysql
+       wordpress
+       joomla
 ## Author 
 Shyamendra Pratan Singh Sengar
