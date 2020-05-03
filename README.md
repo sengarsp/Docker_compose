@@ -19,4 +19,8 @@ chmod +x /usr/local/bin/docker-compose
 
 # Cloning this project
 ``` html
-git clone 
+git clone https://github.com/sengarsp/Docker_compose.git
+```
+## Run Python file
+``` html
+python3 docker_
