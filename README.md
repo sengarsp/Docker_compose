@@ -1,8 +1,6 @@
 # Docker_compose
+this project works on docker-compose as if the server will get disconnected then it will take to launch the new webserver so, docker can launch within 1 sec and it has MYsql to storage of the data permanent 
 
-sdbsagayflgwgfpiagefyilagefuabw
-skldbvahsgdflanwr
-dvbajvafknarlgnaekfbvalenr
 
 
 ## Docker Installation
