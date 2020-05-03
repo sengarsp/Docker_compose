@@ -11,3 +11,12 @@ using "https://download.docker.com/linux/centos/docker-ce.repo" put this link in
 ``` html
 systemctl start docker
 ```
+## Installing Docker Compose
+``` html
+url -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+```
+
+# Cloning this project
+``` html
+git clone 
